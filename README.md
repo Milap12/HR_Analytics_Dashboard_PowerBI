@@ -14,3 +14,4 @@ It consists of various graphs, which explains the followings:
 * Attrition by Job role
 * Attrition by Years at company
 * Attrition by Age group
+* Different departments(slicers)
